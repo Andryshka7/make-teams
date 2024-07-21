@@ -8,7 +8,7 @@ const App = () => (
 				<h1 className='text-3xl font-bold'>Make teams</h1>
 			</div>
 		</nav>
-		<main className='w-full flex justify-center'>
+		<main className='w-full flex flex-col items-center'>
 			<Form />
 		</main>
 	</div>
